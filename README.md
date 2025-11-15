@@ -179,7 +179,7 @@ We're continuously improving FlowBoard! Planned features include:
 ## 📧 Contact
 
 - **Support Issues:** [GitHub Issues](https://github.com/prajwalgajakesari/flowboard/issues)
-- **Email:** [your-email@example.com]
+- **Email:** prajwalpp1@gmail.com
 - **App Store:** [FlowBoard on App Store](https://apps.apple.com/app/flowboard/idXXXXXXXXXX)
 - **Privacy Policy:** [Read here](PRIVACY.md)
 

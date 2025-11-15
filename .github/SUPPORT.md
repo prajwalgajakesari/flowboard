@@ -145,7 +145,7 @@ We'd love to hear your suggestions! [Submit a feature request](https://github.co
 ## 📧 Contact
 
 - **GitHub Issues:** [Open an issue](https://github.com/prajwalgajakesari/flowboard/issues)
-- **Email:** [Your support email]
+- **Email:** prajwalpp1@gmail.com
 - **Privacy Policy:** [View Privacy Policy](https://github.com/prajwalgajakesari/flowboard/blob/main/PRIVACY.md)
 
 ---
