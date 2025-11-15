@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: App Store Reviews
+    url: https://apps.apple.com/app/flowboard/idXXXXXXXXXX
+    about: Leave a review on the App Store
+  - name: Privacy Policy
+    url: https://github.com/prajwalgajakesari/flowboard/blob/main/PRIVACY.md
+    about: Read our privacy policy
